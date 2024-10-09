@@ -1,1 +1,1 @@
-# sepoliafaucetpk910de
+# Automated ETH faucet mining and claiming
