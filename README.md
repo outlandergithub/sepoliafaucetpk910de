@@ -63,6 +63,11 @@ ETH
 
 0.001 ETH / ~ 1 day https://faucet.triangleplatform.com/ethereum/sepolia if lucky and no validation error happens with message: "insufficient sender token funds" when 0.000135 ETH availlable only
 
+13.10.2024 пропуск
+14.10.2024 коміт
+
+
+
 
 
 
