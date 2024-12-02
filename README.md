@@ -114,3 +114,4 @@ ETH
 30.11.2024 коміт
 https://finance.liga.net/ua/stock/novosti/svitovi-aktsiini-fondy-zafiksuvaly-deviatyi-tyzhden-pryplyvu-investytsii
 01.12.2024 коміт
+02.12.2024 коміт
