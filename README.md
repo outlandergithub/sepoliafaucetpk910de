@@ -135,3 +135,4 @@ https://finance.liga.net/ua/stock/novosti/svitovi-aktsiini-fondy-zafiksuvaly-dev
 20.12.2024 коміт
 21.12.2024 коміт
 22.12.2024 коміт
+23.12.2024 коміт
