@@ -193,3 +193,4 @@ https://finance.liga.net/ua/stock/novosti/svitovi-aktsiini-fondy-zafiksuvaly-dev
 16.02.2025 пропуск
 17.02.2025 пропуск
 18.02.2025 коміт
+19.02.2025 коміт
